@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<!--App path -->
+					<string>https://tiktok.900820.xyz/tiktok21.1.0.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<!-- 1024*1024 icon -->
+					<string>https://tiktok.900820.xyz/tiktok21.1.0-1024.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<!-- 180*180 icon -->
+					<string>https://tiktok.900820.xyz/tiktok21.1.0-180.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.zhiliaoapp.musically</string>
+				<key>bundle-version</key>
+				<string>211023</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>TikTok Setup Web</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
