@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!--App path -->
-					<string>https://tiktok.900820.xyz/tiktok21.1.0.ipa</string>
+					<string>http://binghelper.820tmp.cf/files/6429ae8bd0ace/tiktok21.1.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -21,7 +21,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 1024*1024 icon -->
-					<string>https://tiktok.900820.xyz/tiktok21.1.0-1024.png</string>
+					<string>http://binghelper.820tmp.cf/files/6429af1faf74b/tiktok21.1.0-1024.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -30,7 +30,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 180*180 icon -->
-					<string>https://tiktok.900820.xyz/tiktok21.1.0-180.png</string>
+					<string>http://binghelper.820tmp.cf/files/6429af3a60e50/tiktok21.1.0-180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
